@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2.2.0
+
+- zendesk format for json
+- context externe is a JSON
+
 ## 2.1.0
 - re-work Event listner to be more easy to use and similiar on both platform
 - Timer Implementation for the application listener  like ios

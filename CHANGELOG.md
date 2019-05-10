@@ -1,7 +1,11 @@
 # CHANGELOG
 
-## 2.2.0
+## 2.3.0
 
+- New Event System that let you make a call UI that feet your app.
+- Agent email can be received.
+
+## 2.2.0
 - zendesk format for json
 - context externe is a JSON
 

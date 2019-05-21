@@ -2,6 +2,8 @@
 
 ## 2.3.0
 
+- now use java 8
+- now depend on library "org.webrtc:google-webrtc:1.0.27771"
 - New Event System that let you make a call UI that feet your app.
 - Agent email can be received.
 

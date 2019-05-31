@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.3.4
+- fixed held event
+- hangup do not fire an error anymore.
+
 ## 2.3.3
 - receive data from your agent 
 

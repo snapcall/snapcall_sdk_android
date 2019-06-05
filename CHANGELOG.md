@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2.3.5
+- new Event send each second with the call duration.
+- deleted Manifest permission.
+- network event for data fixed.  
+
 ## 2.3.4
 - fixed held event
 - hangup do not fire an error anymore.

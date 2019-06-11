@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.3.6
+- fixed held and transfert status during internet shutdown
+- added Default ui logo can be in res folder.
+
 ## 2.3.5
 - new Event send each second with the call duration.
 - deleted Manifest permission.

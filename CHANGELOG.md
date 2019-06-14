@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 2.3.7
+- fixed crash when reconnect before event about agent.
+
 ## 2.3.6
 - fixed held and transfert status during internet shutdown
 - added Default ui logo can be in res folder.

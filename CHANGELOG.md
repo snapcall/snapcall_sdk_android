@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2.3.8
+- added a back button on default ui if needed.
 
 ## 2.3.7
 - fixed crash when reconnect before event about agent.

@@ -1,4 +1,9 @@
 # CHANGELOG
+
+## 2.3.9
+### fixed
+- Network listener small fix. 
+
 ## 2.3.8
 - added a back button on default ui if needed.
 

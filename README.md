@@ -1,6 +1,6 @@
 # Snapcall Android SDK
 
-v2.3.8
+v2.3.9
 
 ## Documentation
 

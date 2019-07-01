@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.3.10
+### fixed 
+- fixed a null pointeur exeception in a brodcast listener.
+
 ## 2.3.9
 ### fixed
 - Network listener small fix. 

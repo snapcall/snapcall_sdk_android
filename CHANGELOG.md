@@ -1,12 +1,16 @@
 # CHANGELOG
 
+## 2.4.0
+### added
+- Receive call with Firebase push notification (callback).
+
 ## 2.3.10
-### fixed 
-- fixed a null pointeur exeception in a brodcast listener.
+### fixed
+- fixed a null pointeur exeception in a broadcast listener.
 
 ## 2.3.9
 ### fixed
-- Network listener small fix. 
+- Network listener small fix.
 
 ## 2.3.8
 - added a back button on default ui if needed.
@@ -28,7 +32,7 @@
 - hangup do not fire an error anymore.
 
 ## 2.3.3
-- receive data from your agent 
+- receive data from your agent
 
 ## 2.3.0
 - now use java 8

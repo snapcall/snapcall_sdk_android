@@ -1,6 +1,6 @@
 # Snapcall Android SDK
 
-v2.3.10
+v2.4.0
 
 ## Documentation
 
@@ -39,7 +39,7 @@ def getGitHubRelease = { name, githubRepo = "snapcall/snapcall_sdk_android" ->
 ```
 
 ```
-implementation getGitHubRelease('snapcall_android_framework:2.3.8')
-implementation 'com.squareup.okhttp3:okhttp:3.12.1'
-implementation 'org.webrtc:google-webrtc:1.0.27771
-``` 
+implementation getGitHubRelease('snapcall_android_framework:2.4.0')
+implementation 'com.squareup.okhttp3:okhttp:4.2.0'
+implementation 'org.webrtc:google-webrtc:1.0.28513'
+```

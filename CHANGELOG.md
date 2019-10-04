@@ -1,4 +1,7 @@
 # CHANGELOG
+## 2.3.11
+## fixed 
+- issue about media connection in some network.
 
 ## 2.3.10
 ### fixed 

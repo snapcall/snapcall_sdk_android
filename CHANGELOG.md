@@ -1,4 +1,6 @@
 # CHANGELOG
+## 2.3.12
+- timeout improvment
 ## 2.3.11
 ## fixed 
 - issue about media connection in some network.

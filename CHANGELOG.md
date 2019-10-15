@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.4.1
+### Fixed
+- media connection issue on some network.
+
 ## 2.4.0
 ### added
 - Receive call with Firebase push notification (callback).

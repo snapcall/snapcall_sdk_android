@@ -1,4 +1,17 @@
 # CHANGELOG
+
+## 2.5.0
+
+### Added
+- Partner API
+- new default user interface
+- video call support
+- agent api 
+
+## 2.4.0
+### Fixed
+- media connection issue on some network.
+
 ## 2.3.12
 - timeout improvment
 ## 2.3.11

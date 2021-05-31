@@ -1,7 +1,10 @@
 # CHANGELOG
 
-## 2.5.0
+## 2.5.1
+## Fixed
+- api payload fix
 
+## 2.5.0
 ### Added
 - Partner API
 - new default user interface

@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 2.6.0
+### Added 
+- customisation of notification
+
+### Fixed 
+- agent mail correct in event 
+- reconnect for video activation only once 
+- landscape pictures in pictures
+- ring event added when agent receive a call
+
+
 ## 2.5.1
 ## Fixed
 - api payload fix

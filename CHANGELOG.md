@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 2.7.0
+## Added
+- event on display / destroy of UI #88
+- hide and show call controller with swipe gesture #87
+- Live chat auth with token #85
+- event LocalVideoInfo #84
+
+## Fixed
+- fix info payload for video activation #84
+
 ## 2.6.0
 ### Added 
 - customisation of notification

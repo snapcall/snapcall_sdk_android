@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 2.8.0
+## Added
+- public getter for callID in SCCall event
+- Event onUpdateUI and api updateUI to apply props change
+
+## Fixed
+- video renderer not released properly with updatUI
+- set microphone active at call start
+- adapt button size for small screen width, and avoid label overlaps
+
 ## 2.7.0
 ## Added
 - event on display / destroy of UI #88

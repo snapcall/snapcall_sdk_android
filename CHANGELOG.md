@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2.8.1
+## Fixed
+- fix a bug where remote video was sometimes not displayed
+- local video rotate with device
+
 ## 2.8.0
 ## Added
 - public getter for callID in SCCall event

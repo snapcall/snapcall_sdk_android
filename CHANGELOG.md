@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.8.2
+## Fixed
+- fix hangup on click on refuse in notification
+
 ## 2.8.1
 ## Fixed
 - fix a bug where remote video was sometimes not displayed

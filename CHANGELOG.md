@@ -1,4 +1,7 @@
 # CHANGELOG
+## 2.9.0
+## Added
+- New video display option fill and full
 
 ## 2.8.2
 ## Fixed

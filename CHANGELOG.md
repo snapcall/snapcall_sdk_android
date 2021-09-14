@@ -1,4 +1,7 @@
 # CHANGELOG
+## 2.9.1
+## Fixed 
+- fix display video size for full mod.
 ## 2.9.0
 ## Added
 - New video display option fill and full

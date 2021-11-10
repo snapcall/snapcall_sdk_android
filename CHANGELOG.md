@@ -1,4 +1,83 @@
 # CHANGELOG
+
+## 2.10.1
+## Fixed
+- fix to work on android 12.
+
+## 2.10.0
+## Added
+- review audio manager, handle device with only one speaker.
+- dependencies update okhttp : 4.9.1.
+## Fixed
+- prevent starting pictures in pictures if video was not active.
+
+## 2.9.2
+## Fixed
+- forward api status code on error on partner
+- local video as overlay 
+
+## 2.9.1
+## Fixed 
+- fix display video size for full mod.
+## 2.9.0
+## Added
+- New video display option fill and full
+
+## 2.8.2
+## Fixed
+- fix hangup on click on refuse in notification
+
+## 2.8.1
+## Fixed
+- fix a bug where remote video was sometimes not displayed
+- local video rotate with device
+
+## 2.8.0
+## Added
+- public getter for callID in SCCall event
+- Event onUpdateUI and api updateUI to apply props change
+
+## Fixed
+- video renderer not released properly with updatUI
+- set microphone active at call start
+- adapt button size for small screen width, and avoid label overlaps
+
+## 2.7.0
+## Added
+- event on display / destroy of UI #88
+- hide and show call controller with swipe gesture #87
+- Live chat auth with token #85
+- event LocalVideoInfo #84
+
+## Fixed
+- fix info payload for video activation #84
+
+## 2.6.0
+### Added 
+- customisation of notification
+
+### Fixed 
+- agent mail correct in event 
+- reconnect for video activation only once 
+- landscape pictures in pictures
+- ring event added when agent receive a call
+
+
+## 2.5.1
+## Fixed
+- api payload fix
+
+## 2.5.0
+### Added
+- Partner API
+- new default user interface
+- video call support
+- agent api 
+
+## 2.4.0
+### Fixed
+- media connection issue on some network.
+
 ## 2.3.12
 - timeout improvment
 ## 2.3.11

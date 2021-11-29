@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 2.10.2
+- remove manifest Permission READ_CALL_LOG and MANAGE_OWN_CALLS.
+
 ## 2.10.1
 ## Fixed
 - fix to work on android 12.

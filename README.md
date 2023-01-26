@@ -41,5 +41,4 @@ def getGitHubRelease = { name, githubRepo = "snapcall/snapcall_sdk_android" ->
 ```
 implementation getGitHubRelease('snapcall_android_framework:NEW_VERSION_TAG')
 implementation 'com.squareup.okhttp3:okhttp:4.9.1'
-implementation 'org.webrtc:google-webrtc:1.0.32006'
 ``` 

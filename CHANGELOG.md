@@ -1,4 +1,9 @@
 # CHANGELOG
+## 2.11.1
+- fix proguard.
+
+## 2.11.0
+- webrtc custom build embedded in the project.
 
 ## 2.10.2
 - remove manifest Permission READ_CALL_LOG and MANAGE_OWN_CALLS.
